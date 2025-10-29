@@ -4,8 +4,8 @@ Sou um profissional de T.I. apaixonado por tecnologia e em constante aprendizado
 
 <div align="center">
   <a href="https://github.com/Rael-Pz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rael-Pz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rael-Pz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rael-Pz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rael-Pz&layout=compact&langs_count=7&theme=dracula"/>
   </a>
   <img src="https://github.com/Rael-Pz/Rael-Pz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
