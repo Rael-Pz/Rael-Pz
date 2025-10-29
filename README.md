@@ -3,11 +3,11 @@
 ### Sou um profissional de T.I. apaixonado por tecnologia, em transição de carreira para a área de desenvolvimento.
 
 <div align="center">
-  <a href="https://github.com/Israel">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Israel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Israel-Pz">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Israel-Pz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Israel">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Israel-Pz">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Pz&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Israel/Israel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Israel-Pz/Israel-Pz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
