@@ -6,6 +6,8 @@ Sou um profissional de T.I. apaixonado por tecnologia e em constante aprendizado
   <a href="https://github.com/Rael-Pz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rael-Pz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rael-Pz&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  <img src="https://github.com/Rael-Pz/Rael-Pz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
   
 ---
@@ -25,10 +27,4 @@ Sou um profissional de T.I. apaixonado por tecnologia e em constante aprendizado
 <div align="center">
   <a href="https://www.linkedin.com/in/israel-paz-6a9777366/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:SEU-EMAIL-AQUI"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
- 
----
- 
-<div align="center">
-  <img src="https://github.com/Rael-Pz/Rael-Pz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
